@@ -11,6 +11,15 @@ VERSION : 0.1
 
 
 BEGIN
-	#OUT_WString := #IN_WString;
+	REGION _name_
+	    #OUT_WString := #IN_WString;
+	END_REGION
+	
+	
+	
+	
+	
+	
+	
 END_FUNCTION
 
