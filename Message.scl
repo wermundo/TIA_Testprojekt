@@ -11,6 +11,6 @@ VERSION : 0.1
 
 
 BEGIN
-	#OUT_String := #IN_String;
+	#OUT_WString := #IN_WString;
 END_FUNCTION
 
