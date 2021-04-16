@@ -9,6 +9,10 @@ VERSION : 0.1
       OUT_WString : WString;
    END_VAR
 
+   VAR_IN_OUT 
+      Cache : "Message_UDT";
+   END_VAR
+
 
 BEGIN
 	REGION _name_
