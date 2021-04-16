@@ -2,7 +2,7 @@
 <Document>
   <Engineering version="V16" />
   <DocumentInfo>
-    <Created>2021-04-16T07:03:01.112527Z</Created>
+    <Created>2021-04-16T08:46:56.9331318Z</Created>
     <ExportSetting>WithDefaults</ExportSetting>
     <InstalledProducts>
       <Product>
@@ -121,6 +121,12 @@
   </StlStatement>
   <StlStatement UId="21">
     <StlToken Text="EMPTY_LINE" />
+  </StlStatement>
+  <StlStatement UId="33">
+    <StlToken Text="CALL" />
+    <Access Scope="Call">
+      <CallInfo Name="Test_AWL" BlockType="FC" />
+    </Access>
   </StlStatement>
   <StlStatement UId="22">
     <StlToken Text="EMPTY_LINE" />
